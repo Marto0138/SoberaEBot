@@ -5,6 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://www.github.com/SoberaEBot" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SoberaEBot?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V7GCPET)
 
 ### Skills
 
